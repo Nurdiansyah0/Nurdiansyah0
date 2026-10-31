@@ -33,7 +33,7 @@ My experience in emergency response has forged a mindset of **precision, reliabi
 
 <div align="center">
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical
 
 | **Frontend** | **Backend** | **Data & AI** |
 | :---: | :---: | :---: |
