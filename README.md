@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=280&section=header&text=Nurdiansyah&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20ARFF%20Officer&descAlignY=55&descAlign=50)
 
-### 🚒 High-Stakes Discipline × High-Performance Software Engineering
-
+### Software Engineering
+ 
 <p align="center">
   <a href="https://linkedin.com/in/nurdiansyah-ds">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
